@@ -1,4 +1,4 @@
-# cv-final-proj
+# ReLeaf
 
 This is ReLeaf, our final project for Computer Vision! It's a notebook, so you can just scroll through and run the bits of code one after the other. Be sure to run each part sequentially because some segments fail if you don't run all the ones before. 
 
