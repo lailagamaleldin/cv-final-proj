@@ -1,4 +1,4 @@
-!images/skyline.png
+!(images/skyline.png)
 
 # ReLeaf: Reimagining Nature in Urban Street Scenes using Detectron2
 
