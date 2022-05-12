@@ -4,4 +4,4 @@ This is our Computer Vision final project! It's a notebook, so you can just scro
 
 In case there are issues with the notebook on here, here is the direct link to our Colab Notebook:
 
-   https://colab.research.google.com/drive/17Ppd_MUQtuNXBEK3s2-jPXV40mS0ZNDD
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://colab.research.google.com/drive/17Ppd_MUQtuNXBEK3s2-jPXV40mS0ZNDD
