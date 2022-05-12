@@ -1,4 +1,4 @@
-!(./images/skyline.png)
+!(https://github.com/lailagamaleldin/cv-final-proj/blob/2dcf7e35f9aaa0f9d49fe9e01c210463c4afc1e8/images/skyline.png)
 
 # ReLeaf: Reimagining Nature in Urban Street Scenes using Detectron2
 
